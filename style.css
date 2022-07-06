@@ -1,0 +1,21 @@
+#apps{
+    background-color: rgb(54, 44, 44);
+}
+#games{
+background-color: rgb(14, 156, 212);
+}
+#chatbot{
+    background-color: rgb(73, 230, 0);
+}
+#line{
+    background-color: rgba(0, 129, 235, 0.664);
+}
+body{
+    text-align: center;    
+}
+.line{
+    width: 80px;
+    height: 8px;
+    background-color: black;
+    margin: 8px auto;
+}
